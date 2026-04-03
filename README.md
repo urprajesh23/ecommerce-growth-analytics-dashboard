@@ -9,7 +9,8 @@ This project is an end-to-end data analytics pipeline designed to extract action
 ## 📊 Executive Dashboard
 *(Note: Recruiters, please view the high-res screenshot below as GitHub does not natively render .pbix files).*
 
-![Dashboard Screenshot](dashboard_screenshot.png) 
+![Dashboard Screenshot - 1](result1.png) 
+![Dashboard Screenshot - 2](result2.png) 
 
 ## 💡 Key Business Insights Discovered
 1. **The Pareto Principle in Action:** The top 18% of customers (categorized as 'Champions' and 'Loyalists' via RFM scoring) are responsible for driving roughly 71% of total gross revenue. 
